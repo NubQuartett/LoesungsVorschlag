@@ -1,0 +1,616 @@
+Thu May 11 10:17:06 CEST 2017: Ausleihe
+DVD:
+    Titel: Hellboy
+    Kommentar: Red - der dämonische Held aus der Unterwelt
+    Regisseur: Guillermo Del Toro
+    Laufzeit: 110
+am 11.5.2017 verliehen an
+    Kundennummer: 123458
+    Name: Klaus Müller
+    Telefon: unbekannt
+    Anschrift:
+    Müllerweg 1
+    22760 Hamburg
+Thu May 11 10:17:19 CEST 2017: Ausleihe
+CD:
+    Titel: Breakaway
+    Kommentar: Nachfolger vom Album Tankful
+    Interpret: Kelly Clarkson
+    Spiellänge: 87
+am 11.5.2017 verliehen an
+    Kundennummer: 123458
+    Name: Klaus Müller
+    Telefon: unbekannt
+    Anschrift:
+    Müllerweg 1
+    22760 Hamburg
+Fri May 12 09:46:33 CEST 2017: Ausleihe
+CD:
+    Titel: CD1
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+Fri May 12 09:46:33 CEST 2017: Ausleihe
+CD:
+    Titel: CD2
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+Fri May 12 09:46:33 CEST 2017: Rückgabe
+CD:
+    Titel: CD1
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+Fri May 12 09:46:33 CEST 2017: Rückgabe
+CD:
+    Titel: CD2
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+Fri May 12 09:46:33 CEST 2017: Ausleihe
+CD:
+    Titel: CD1
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+Fri May 12 09:46:33 CEST 2017: Ausleihe
+CD:
+    Titel: CD2
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+Fri May 12 09:46:33 CEST 2017: Ausleihe
+CD:
+    Titel: CD3
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+Tue May 16 17:07:33 CEST 2017: Ausleihe
+CD:
+    Titel: One of the Boys
+    Kommentar: Das ist das neue Album von Katy Perry One of the Boys inklusive der Hitsingles Hot N Cold und I Kissed A Girl.
+    Interpret: Katy Perry
+    Spiellänge: 70
+am 16.5.2017 verliehen an
+    Kundennummer: 123457
+    Name: Kai Konrad
+    Telefon: unbekannt
+    Anschrift:
+    Kannenweg 23
+    21868 Stade
+Tue May 16 17:11:49 CEST 2017: Ausleihe
+DVD:
+    Titel: Pirates of the Caribbean - Am Ende der Welt
+    Kommentar: Abenteuer des Cpt. Jack Sparrow
+    Regisseur: Gore Verbinski
+    Laufzeit: 160
+am 16.5.2017 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee22
+    24103 Kiel
+Tue May 16 17:11:53 CEST 2017: Ausleihe
+CD:
+    Titel: Breakaway
+    Kommentar: Nachfolger vom Album Tankful
+    Interpret: Kelly Clarkson
+    Spiellänge: 87
+am 16.5.2017 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee22
+    24103 Kiel
+Tue May 16 17:12:13 CEST 2017: Ausleihe
+CD:
+    Titel: Wincing the Night Away
+    Kommentar: Die fleißigsten Slacker der Indie-Szene 
+    Interpret: the Shins
+    Spiellänge: 69
+am 16.5.2017 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee22
+    24103 Kiel
+Tue May 16 17:12:15 CEST 2017: Ausleihe
+DVD:
+    Titel: James Bond - Ein Quantum Trost
+    Kommentar: Ein Quantum Trost setzt da an, wo Casino Royale endet
+    Regisseur: Marc Forster
+    Laufzeit: 110
+am 16.5.2017 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee22
+    24103 Kiel
+Tue May 16 17:12:17 CEST 2017: Ausleihe
+DVD:
+    Titel: James Bond - Ein Quantum Trost
+    Kommentar: Ein Quantum Trost setzt da an, wo Casino Royale endet
+    Regisseur: Marc Forster
+    Laufzeit: 110
+am 16.5.2017 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee22
+    24103 Kiel
+Tue May 16 17:12:25 CEST 2017: Ausleihe
+DVD:
+    Titel: Hellboy
+    Kommentar: Red - der dämonische Held aus der Unterwelt
+    Regisseur: Guillermo Del Toro
+    Laufzeit: 110
+am 16.5.2017 verliehen an
+    Kundennummer: 123461
+    Name: Anna Kurnikowa
+    Telefon: unbekannt
+    Anschrift:
+    Osterweg 1
+    22670 Hamburg
+Tue May 16 17:15:23 CEST 2017: Rückgabe
+DVD:
+    Titel: James Bond - Ein Quantum Trost
+    Kommentar: Ein Quantum Trost setzt da an, wo Casino Royale endet
+    Regisseur: Marc Forster
+    Laufzeit: 110
+am 16.5.2017 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee22
+    24103 Kiel
+Tue May 16 17:15:25 CEST 2017: Rückgabe
+KonsolenVideospiel:
+    Titel: Dr. Kawashimas Gehirn Jogging
+    Kommentar:  Wie fit ist ihr Gehirn?
+    System: Nintendo DS
+am 2.4.2017 verliehen an
+    Kundennummer: 123457
+    Name: Kai Konrad
+    Telefon: unbekannt
+    Anschrift:
+    Kannenweg 23
+    21868 Stade
+Tue May 16 17:15:26 CEST 2017: Rückgabe
+DVD:
+    Titel: Hellboy
+    Kommentar: Red - der dämonische Held aus der Unterwelt
+    Regisseur: Guillermo Del Toro
+    Laufzeit: 110
+am 16.5.2017 verliehen an
+    Kundennummer: 123461
+    Name: Anna Kurnikowa
+    Telefon: unbekannt
+    Anschrift:
+    Osterweg 1
+    22670 Hamburg
+Tue May 16 17:15:28 CEST 2017: Rückgabe
+CD:
+    Titel: Breakaway
+    Kommentar: Nachfolger vom Album Tankful
+    Interpret: Kelly Clarkson
+    Spiellänge: 87
+am 16.5.2017 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee22
+    24103 Kiel
+Tue May 16 17:15:30 CEST 2017: Rückgabe
+CD:
+    Titel: Wincing the Night Away
+    Kommentar: Die fleißigsten Slacker der Indie-Szene 
+    Interpret: the Shins
+    Spiellänge: 69
+am 16.5.2017 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee22
+    24103 Kiel
+Tue May 16 17:15:30 CEST 2017: Rückgabe
+DVD:
+    Titel: James Bond - Ein Quantum Trost
+    Kommentar: Ein Quantum Trost setzt da an, wo Casino Royale endet
+    Regisseur: Marc Forster
+    Laufzeit: 110
+am 16.5.2017 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee22
+    24103 Kiel
+Tue May 16 17:15:30 CEST 2017: Rückgabe
+DVD:
+    Titel: Pirates of the Caribbean - Am Ende der Welt
+    Kommentar: Abenteuer des Cpt. Jack Sparrow
+    Regisseur: Gore Verbinski
+    Laufzeit: 160
+am 16.5.2017 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee22
+    24103 Kiel
+Tue May 16 17:15:53 CEST 2017: Ausleihe
+CD:
+    Titel: One of the Boys
+    Kommentar: Das ist das neue Album von Katy Perry One of the Boys inklusive der Hitsingles Hot N Cold und I Kissed A Girl.
+    Interpret: Katy Perry
+    Spiellänge: 70
+am 16.5.2017 verliehen an
+    Kundennummer: 123461
+    Name: Anna Kurnikowa
+    Telefon: unbekannt
+    Anschrift:
+    Osterweg 1
+    22670 Hamburg
+Tue May 16 17:15:59 CEST 2017: Rückgabe
+CD:
+    Titel: One of the Boys
+    Kommentar: Das ist das neue Album von Katy Perry One of the Boys inklusive der Hitsingles Hot N Cold und I Kissed A Girl.
+    Interpret: Katy Perry
+    Spiellänge: 70
+am 16.5.2017 verliehen an
+    Kundennummer: 123461
+    Name: Anna Kurnikowa
+    Telefon: unbekannt
+    Anschrift:
+    Osterweg 1
+    22670 Hamburg
+Tue May 16 17:16:06 CEST 2017: Ausleihe
+CD:
+    Titel: One of the Boys
+    Kommentar: Das ist das neue Album von Katy Perry One of the Boys inklusive der Hitsingles Hot N Cold und I Kissed A Girl.
+    Interpret: Katy Perry
+    Spiellänge: 70
+am 16.5.2017 verliehen an
+    Kundennummer: 123460
+    Name: Katarina Klum
+    Telefon: unbekannt
+    Anschrift:
+    Ottensener Strasse 10
+    22761 Hamburg
+Tue May 16 17:35:28 CEST 2017: Ausleihe
+CD:
+    Titel: Wincing the Night Away
+    Kommentar: Die fleißigsten Slacker der Indie-Szene 
+    Interpret: the Shins
+    Spiellänge: 69
+am 16.5.2017 verliehen an
+    Kundennummer: 123460
+    Name: Katarina Klum
+    Telefon: unbekannt
+    Anschrift:
+    Ottensener Strasse 10
+    22761 Hamburg
+Wed May 17 00:41:12 CEST 2017: Ausleihe
+DVD:
+    Titel: James Bond - Ein Quantum Trost
+    Kommentar: Ein Quantum Trost setzt da an, wo Casino Royale endet
+    Regisseur: Marc Forster
+    Laufzeit: 110
+am 16.5.2017 verliehen an
+    Kundennummer: 123458
+    Name: Klaus Müller
+    Telefon: unbekannt
+    Anschrift:
+    Müllerweg 1
+    22760 Hamburg
+Wed May 17 00:49:15 CEST 2017: Ausleihe
+DVD:
+    Titel: James Bond - Ein Quantum Trost
+    Kommentar: Ein Quantum Trost setzt da an, wo Casino Royale endet
+    Regisseur: Marc Forster
+    Laufzeit: 110
+am 16.5.2017 verliehen an
+    Kundennummer: 123460
+    Name: Katarina Klum
+    Telefon: unbekannt
+    Anschrift:
+    Ottensener Strasse 10
+    22761 Hamburg
+Wed May 17 00:56:57 CEST 2017: Ausleihe
+CD:
+    Titel: One of the Boys
+    Kommentar: Das ist das neue Album von Katy Perry One of the Boys inklusive der Hitsingles Hot N Cold und I Kissed A Girl.
+    Interpret: Katy Perry
+    Spiellänge: 70
+am 16.5.2017 verliehen an
+    Kundennummer: 123461
+    Name: Anna Kurnikowa
+    Telefon: unbekannt
+    Anschrift:
+    Osterweg 1
+    22670 Hamburg
+Wed May 17 00:57:03 CEST 2017: Rückgabe
+CD:
+    Titel: One of the Boys
+    Kommentar: Das ist das neue Album von Katy Perry One of the Boys inklusive der Hitsingles Hot N Cold und I Kissed A Girl.
+    Interpret: Katy Perry
+    Spiellänge: 70
+am 16.5.2017 verliehen an
+    Kundennummer: 123461
+    Name: Anna Kurnikowa
+    Telefon: unbekannt
+    Anschrift:
+    Osterweg 1
+    22670 Hamburg
+Wed May 17 09:48:18 CEST 2017: Ausleihe
+CD:
+    Titel: Wincing the Night Away
+    Kommentar: Die fleißigsten Slacker der Indie-Szene 
+    Interpret: the Shins
+    Spiellänge: 69
+am 17.5.2017 verliehen an
+    Kundennummer: 123458
+    Name: Klaus Müller
+    Telefon: unbekannt
+    Anschrift:
+    Müllerweg 1
+    22760 Hamburg
+Wed May 17 10:06:50 CEST 2017: Ausleihe
+DVD:
+    Titel: Kung Fu Panda
+    Kommentar: Die Legende von einem Drachenkrieger
+    Regisseur: John Stevenson
+    Laufzeit: 115
+am 17.5.2017 verliehen an
+    Kundennummer: 123456
+    Name: Susi Sonnenschein
+    Telefon: unbekannt
+    Anschrift:
+    Sonnenallee 20
+    22760 Hamburg
+Wed May 17 10:07:22 CEST 2017: Ausleihe
+CD:
+    Titel: Wincing the Night Away
+    Kommentar: Die fleißigsten Slacker der Indie-Szene 
+    Interpret: the Shins
+    Spiellänge: 69
+am 17.5.2017 verliehen an
+    Kundennummer: 123456
+    Name: Susi Sonnenschein
+    Telefon: unbekannt
+    Anschrift:
+    Sonnenallee 20
+    22760 Hamburg
+Wed May 17 10:12:33 CEST 2017: Ausleihe
+CD:
+    Titel: Disturbia
+    Kommentar: gut
+    Interpret: Rihanna
+    Spiellänge: 90
+am 17.5.2017 verliehen an
+    Kundennummer: 123456
+    Name: Susi Sonnenschein
+    Telefon: unbekannt
+    Anschrift:
+    Sonnenallee 20
+    22760 Hamburg
+Wed May 17 10:30:57 CEST 2017: Ausleihe
+DVD:
+    Titel: Pirates of the Caribbean - Am Ende der Welt
+    Kommentar: Abenteuer des Cpt. Jack Sparrow
+    Regisseur: Gore Verbinski
+    Laufzeit: 160
+am 17.5.2017 verliehen an
+    Kundennummer: 123456
+    Name: Susi Sonnenschein
+    Telefon: unbekannt
+    Anschrift:
+    Sonnenallee 20
+    22760 Hamburg
+Wed May 17 10:31:20 CEST 2017: Rückgabe
+CD:
+    Titel: Wincing the Night Away
+    Kommentar: Die fleißigsten Slacker der Indie-Szene 
+    Interpret: the Shins
+    Spiellänge: 69
+am 17.5.2017 verliehen an
+    Kundennummer: 123456
+    Name: Susi Sonnenschein
+    Telefon: unbekannt
+    Anschrift:
+    Sonnenallee 20
+    22760 Hamburg
+Wed May 17 10:31:28 CEST 2017: Ausleihe
+CD:
+    Titel: Wincing the Night Away
+    Kommentar: Die fleißigsten Slacker der Indie-Szene 
+    Interpret: the Shins
+    Spiellänge: 69
+am 17.5.2017 verliehen an
+    Kundennummer: 123458
+    Name: Klaus Müller
+    Telefon: unbekannt
+    Anschrift:
+    Müllerweg 1
+    22760 Hamburg
+Wed May 17 10:47:41 CEST 2017: Ausleihe
+CD:
+    Titel: Garden State
+    Kommentar: Soundtrack
+    Interpret: Various
+    Spiellänge: 56
+am 17.5.2017 verliehen an
+    Kundennummer: 123457
+    Name: Kai Konrad
+    Telefon: unbekannt
+    Anschrift:
+    Kannenweg 23
+    21868 Stade
+Wed May 17 10:48:18 CEST 2017: Ausleihe
+DVD:
+    Titel: James Bond - Ein Quantum Trost
+    Kommentar: Ein Quantum Trost setzt da an, wo Casino Royale endet
+    Regisseur: Marc Forster
+    Laufzeit: 110
+am 17.5.2017 verliehen an
+    Kundennummer: 123457
+    Name: Kai Konrad
+    Telefon: unbekannt
+    Anschrift:
+    Kannenweg 23
+    21868 Stade
+Wed May 17 10:48:31 CEST 2017: Ausleihe
+DVD:
+    Titel: James Bond - Ein Quantum Trost
+    Kommentar: Ein Quantum Trost setzt da an, wo Casino Royale endet
+    Regisseur: Marc Forster
+    Laufzeit: 110
+am 17.5.2017 verliehen an
+    Kundennummer: 123461
+    Name: Anna Kurnikowa
+    Telefon: unbekannt
+    Anschrift:
+    Osterweg 1
+    22670 Hamburg
+Wed May 17 10:50:33 CEST 2017: Ausleihe
+DVD:
+    Titel: Hellboy
+    Kommentar: Red - der dämonische Held aus der Unterwelt
+    Regisseur: Guillermo Del Toro
+    Laufzeit: 110
+am 17.5.2017 verliehen an
+    Kundennummer: 123461
+    Name: Anna Kurnikowa
+    Telefon: unbekannt
+    Anschrift:
+    Osterweg 1
+    22670 Hamburg
+Wed May 17 11:02:34 CEST 2017: Ausleihe
+CD:
+    Titel: One of the Boys
+    Kommentar: Das ist das neue Album von Katy Perry One of the Boys inklusive der Hitsingles Hot N Cold und I Kissed A Girl.
+    Interpret: Katy Perry
+    Spiellänge: 70
+am 17.5.2017 verliehen an
+    Kundennummer: 123457
+    Name: Kai Konrad
+    Telefon: unbekannt
+    Anschrift:
+    Kannenweg 23
+    21868 Stade
+Wed May 17 11:02:45 CEST 2017: Rückgabe
+CD:
+    Titel: Wincing the Night Away
+    Kommentar: Die fleißigsten Slacker der Indie-Szene 
+    Interpret: the Shins
+    Spiellänge: 69
+am 17.5.2017 verliehen an
+    Kundennummer: 123458
+    Name: Klaus Müller
+    Telefon: unbekannt
+    Anschrift:
+    Müllerweg 1
+    22760 Hamburg
+Wed May 17 11:08:51 CEST 2017: Ausleihe
+DVD:
+    Titel: Pirates of the Caribbean - Am Ende der Welt
+    Kommentar: Abenteuer des Cpt. Jack Sparrow
+    Regisseur: Gore Verbinski
+    Laufzeit: 160
+am 17.5.2017 verliehen an
+    Kundennummer: 123460
+    Name: Katarina Klum
+    Telefon: unbekannt
+    Anschrift:
+    Ottensener Strasse 10
+    22761 Hamburg
+Wed May 17 11:08:52 CEST 2017: Ausleihe
+CD:
+    Titel: Wincing the Night Away
+    Kommentar: Die fleißigsten Slacker der Indie-Szene 
+    Interpret: the Shins
+    Spiellänge: 69
+am 17.5.2017 verliehen an
+    Kundennummer: 123460
+    Name: Katarina Klum
+    Telefon: unbekannt
+    Anschrift:
+    Ottensener Strasse 10
+    22761 Hamburg
+Wed May 17 11:09:07 CEST 2017: Ausleihe
+DVD:
+    Titel: Hellboy
+    Kommentar: Red - der dämonische Held aus der Unterwelt
+    Regisseur: Guillermo Del Toro
+    Laufzeit: 110
+am 17.5.2017 verliehen an
+    Kundennummer: 123460
+    Name: Katarina Klum
+    Telefon: unbekannt
+    Anschrift:
+    Ottensener Strasse 10
+    22761 Hamburg
+Wed May 17 11:09:39 CEST 2017: Rückgabe
+CD:
+    Titel: Greatest Hits Vol. 1 & Vol. 2
+    Kommentar: 2 wundervolle Scheiben
+    Interpret: Billy Joel
+    Spiellänge: 140
+am 2.4.2017 verliehen an
+    Kundennummer: 123457
+    Name: Kai Konrad
+    Telefon: unbekannt
+    Anschrift:
+    Kannenweg 23
+    21868 Stade
